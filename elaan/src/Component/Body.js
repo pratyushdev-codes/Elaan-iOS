@@ -219,7 +219,7 @@ function Body() {
   </div>
 </div>
 <br/>
-<center><h5>Made by Tech Team - iOS Club !</h5></center>
+<center><h5>Developed by Tech Team - iOS Club !</h5></center>
 <br/>
 <br/>
 <br/>
